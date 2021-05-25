@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MdkanokHossain,I'm a Software developer with 2+ Years experienced. I am expert in React js, Vue js and php framework (Laravel, CodeIgniter). i would like to help you to make web software. I always make sure my clients are satisfied with the work i do. lastly, I take a great pride in my prompt and professional communication. I would love to discuss the job with you further and hope here from you soon.
+- 👋 Hi, I’m @MdkanokHossain,I'm a Software developer with 2.5+ Years experienced. I am expert in React js, Vue js and php framework (Laravel, CodeIgniter). i would like to help you to make web software. I always make sure my clients are satisfied with the work i do. lastly, I take a great pride in my prompt and professional communication. I would love to discuss the job with you further and hope here from you soon.
 
 <!--
 - 👀 I’m interested in ... 
