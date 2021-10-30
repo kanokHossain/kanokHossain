@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @MdkanokHossain,I'm a Software developer with 3+ Years experienced. I am expert in React js, Vue js and php framework (Laravel, CodeIgniter). i would like to help you to make web software. I always make sure my clients are satisfied with the work i do. lastly, I take a great pride in my prompt and professional communication. I would love to discuss the job with you further and hope here from you soon.
+👋 Hi, I’m Md Knaok Hossain, I have been working professionally as a software developer since Nov 2018. For last two and more than half years (+2.11), I have been working as the full-stack developer at multiple projects. Interestingly, for last almost three years I have been working with “Vue Js and Laravel” for frontend and backend. 
+
 📫 How to reach me ... ![Gmail](https://img.shields.io/badge/-kanokhossain.se@gmail.com-EA4335?style=flat-square&logoColor=black&logo=mail.ru&link=kanokhossain.se@gmail.com)
 
 ## IDE I USED
@@ -8,9 +9,11 @@
 ![VS Code](https://img.shields.io/badge/Vue%20Js-Javascript-green)
 ![VS Code](https://img.shields.io/badge/NUXT%20JS-%20-brightgreen)
 ![VS Code](https://img.shields.io/badge/Angular%20JS-%20-brightgreen)
+
 ![VS Code](https://img.shields.io/badge/REST%20API-%20-brightgreen)
 ![VS Code](https://img.shields.io/badge/Swagger-%20-brightgreen)
 ![VS Code](https://img.shields.io/badge/MYSQL-%20-brightgreen)
+
 ![VS Code](https://img.shields.io/badge/AWS-%20-brightgreen)
 ![VS Code](https://img.shields.io/badge/DIGITAL%20OCEAN-%20-brightgreen)
 ![VS Code](https://img.shields.io/badge/Laravel-Php-green)<br />
