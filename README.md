@@ -38,7 +38,8 @@ I am confident that my expertise in Agile and Scrum Master, combined with my tec
 ![VS Code](https://img.shields.io/badge/SOLID-%20-brightgreen)
 ![VS Code](https://img.shields.io/badge/DRY-%20-brightgreen)
 
-## FOLLOW: AGILE DEVELOPEMENT PROCESS
+## FOLLOW: DEVELOPEMENT PROCESS
+![VS Code](https://img.shields.io/badge/AGILE-%20-brightgreen)
 <!--
 ## 𝗦𝘁𝗮𝘁𝘀
 ![github stats](https://github-readme-stats.vercel.app/api?username=MdKanokHossain&hide=stars,prs,issues,contribs&show_icons=true&include_all_commits=true&count_private=true)
