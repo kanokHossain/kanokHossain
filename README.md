@@ -37,16 +37,23 @@ I am confident that my expertise in Agile and Scrum Master, combined with my tec
 ## DESIGN PATTERN I FOLLOW
 ![VS Code](https://img.shields.io/badge/SOLID-%20-brightgreen)
 ![VS Code](https://img.shields.io/badge/DRY-%20-brightgreen)
+![VS Code](https://img.shields.io/badge/ATOMIC-%20-brightgreen)
 
-## FOLLOW: DEVELOPEMENT PROCESS
+## FOLLOW: DEVELOPMENT PROCESS
 ![VS Code](https://img.shields.io/badge/AGILE-%20-brightgreen)
-<!--
+
+## Tools I USE
+![VS Code](https://img.shields.io/badge/JIRA-%20-brightgreen)
+![VS Code](https://img.shields.io/badge/GIT-%20-brightgreen)
+![VS Code](https://img.shields.io/badge/Trello-%20-brightgreen)
+
 ## 𝗦𝘁𝗮𝘁𝘀
 ![github stats](https://github-readme-stats.vercel.app/api?username=MdKanokHossain&hide=stars,prs,issues,contribs&show_icons=true&include_all_commits=true&count_private=true)
-
+<!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MdkanokHossain&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 ![](https://komarev.com/ghpvc/?username=MdkanokHossain&label=PROFILE+VIEWS)
  -->
+
 <!--
 - 👀 I’m interested in ... 
 - 🌱 I’m currently learning ...
