@@ -46,6 +46,7 @@ I am confident that my expertise in Agile and Scrum Master, combined with my tec
 ![VS Code](https://img.shields.io/badge/JIRA-%20-brightgreen)
 ![VS Code](https://img.shields.io/badge/GIT-%20-brightgreen)
 ![VS Code](https://img.shields.io/badge/Trello-%20-brightgreen)
+![VS Code](https://img.shields.io/badge/Retro-%20-brightgreen)
 
 ## 𝗦𝘁𝗮𝘁𝘀
 ![github stats](https://github-readme-stats.vercel.app/api?username=MdKanokHossain&hide=stars,prs,issues,contribs&show_icons=true&include_all_commits=true&count_private=true)
