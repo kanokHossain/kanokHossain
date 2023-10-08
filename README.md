@@ -47,10 +47,10 @@ I am confident that my expertise in Agile and Scrum Master, combined with my tec
 ![VS Code](https://img.shields.io/badge/GIT-%20-brightgreen)
 ![VS Code](https://img.shields.io/badge/Trello-%20-brightgreen)
 ![VS Code](https://img.shields.io/badge/Retro-%20-brightgreen)
-
+<!--
 ## 𝗦𝘁𝗮𝘁𝘀
 ![github stats](https://github-readme-stats.vercel.app/api?username=MdKanokHossain&hide=stars,prs,issues,contribs&show_icons=true&include_all_commits=true&count_private=true)
-<!--
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MdkanokHossain&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 ![](https://komarev.com/ghpvc/?username=MdkanokHossain&label=PROFILE+VIEWS)
  -->
