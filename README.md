@@ -16,9 +16,6 @@ Working with Agile and being an expert in Scrum Master has taught me the importa
 
 I am confident that my expertise in Agile and Scrum Master, combined with my technical skills and passion for building exceptional experiences, make me an ideal candidate for any project or team.
 
-📫 How to reach me ... ![Gmail](https://img.shields.io/badge/-kanokhossain.se@gmail.com-EA4335?style=flat-square&logoColor=black&logo=mail.ru&link=kanokhossain.se@gmail.com)
-
-
 
 ### 💻 My Tools & Stack
 
@@ -49,4 +46,6 @@ I am confident that my expertise in Agile and Scrum Master, combined with my tec
 ### 📊 Real-time & More
 
 🌐 For real-time capabilities, I rely on **Firebase**. Let's connect and create amazing software together! 📩
+
+📫 How to reach me ... ![Gmail](https://img.shields.io/badge/-kanokhossain.se@gmail.com-EA4335?style=flat-square&logoColor=black&logo=mail.ru&link=kanokhossain.se@gmail.com)
 
