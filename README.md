@@ -18,50 +18,35 @@ I am confident that my expertise in Agile and Scrum Master, combined with my tec
 
 📫 How to reach me ... ![Gmail](https://img.shields.io/badge/-kanokhossain.se@gmail.com-EA4335?style=flat-square&logoColor=black&logo=mail.ru&link=kanokhossain.se@gmail.com)
 
-## IDE I USED
-![VS Code](https://img.shields.io/badge/-VSCode-%23007ACC?style=flat-square&logo=visual-studio-code)
 
-## MOST USED STACK
-![VS Code](https://img.shields.io/badge/Vue%20Js-Javascript-green)
-![VS Code](https://img.shields.io/badge/NUXT%20JS-%20-brightgreen)
-![VS Code](https://img.shields.io/badge/Angular%20JS-%20-brightgreen)
-![VS Code](https://img.shields.io/badge/REST%20API-%20-brightgreen)
-![VS Code](https://img.shields.io/badge/Swagger-%20-brightgreen)
-![VS Code](https://img.shields.io/badge/MYSQL-%20-brightgreen)
-![VS Code](https://img.shields.io/badge/AWS-%20-brightgreen)
-![VS Code](https://img.shields.io/badge/DIGITAL%20OCEAN-%20-brightgreen)
-![VS Code](https://img.shields.io/badge/Laravel-Php-green)<br />
-![VS Code](https://img.shields.io/badge/ES6-%20-green)
-![VS Code](https://img.shields.io/badge/Livewire-%20-brightgreen)
 
-## DESIGN PATTERN I FOLLOW
-![VS Code](https://img.shields.io/badge/SOLID-%20-brightgreen)
-![VS Code](https://img.shields.io/badge/DRY-%20-brightgreen)
-![VS Code](https://img.shields.io/badge/ATOMIC-%20-brightgreen)
+### 💻 My Tools & Stack
 
-## FOLLOW: DEVELOPMENT PROCESS
-![VS Code](https://img.shields.io/badge/AGILE-%20-brightgreen)
+- **IDE:** VS Code ![VS Code](https://img.shields.io/badge/-VSCode-%23007ACC?style=flat-square&logo=visual-studio-code)
+- **Front-end:** Vue.js, Nuxt.js, ES6
+- **Back-end:** Laravel, PHP
+- **APIs:** REST, GraphQL
+- **Databases:** MySQL
+- **Cloud Services:** AWS
 
-## Tools I USE
-![VS Code](https://img.shields.io/badge/JIRA-%20-brightgreen)
-![VS Code](https://img.shields.io/badge/GIT-%20-brightgreen)
-![VS Code](https://img.shields.io/badge/Trello-%20-brightgreen)
-![VS Code](https://img.shields.io/badge/Retro-%20-brightgreen)
-<!--
-## 𝗦𝘁𝗮𝘁𝘀
-![github stats](https://github-readme-stats.vercel.app/api?username=MdKanokHossain&hide=stars,prs,issues,contribs&show_icons=true&include_all_commits=true&count_private=true)
+### 🎨 Design Patterns
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MdkanokHossain&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-![](https://komarev.com/ghpvc/?username=MdkanokHossain&label=PROFILE+VIEWS)
- -->
+🔨 I build robust and maintainable software, following design principles:
+- **SOLID**
+- **DRY**
+- **ATOMIC**
 
-<!--
-- 👀 I’m interested in ... 
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
--->
-<!---
-MdkanokHossain/MdkanokHossain is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### 🚀 Development Process
+
+🏃‍♂️ I'm a practitioner of Agile development, promoting adaptability and collaboration in every project.
+
+### 🛠️ Tools I Use
+
+- **Project Management:** JIRA, Trello
+- **Version Control:** GIT
+- **Collaboration:** Retro for retrospectives
+
+### 📊 Real-time & More
+
+🌐 For real-time capabilities, I rely on **Firebase**. Let's connect and create amazing software together! 📩
+
