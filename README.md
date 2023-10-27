@@ -37,6 +37,10 @@ I am confident that my expertise in Agile and Scrum Master, combined with my tec
 
 🏃‍♂️ I'm a practitioner of Agile development, promoting adaptability and collaboration in every project.
 
+### 🚀 Agile Advocate
+
+I'm an Agile enthusiast and an expert Scrum Master. I prioritize communication, transparency, and collaboration in every project.
+
 ### 🛠️ Tools I Use
 
 - **Project Management:** JIRA, Trello
