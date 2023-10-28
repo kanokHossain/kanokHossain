@@ -26,6 +26,9 @@ I am confident that my expertise in Agile and Scrum Master, combined with my tec
 - **Databases:** MySQL
 - **Cloud Services:** AWS
 
+### ⚙️ Server Mastery
+🌐 AWS wizard: I deploy, connect with Route 53, configure, and secure with SSL. Database setups? No problem. GoDaddy domains? Handled. Site configuration? Done seamlessly
+
 ### 🎨 Design Patterns
 
 🔨 I build robust and maintainable software, following design principles:
