@@ -4,7 +4,7 @@ My advanced knowledge of Object-Oriented JavaScript, modern JS libraries like VU
 
 Furthermore, my experience with LAMP (Linux, Apache, MySQL, PHP/LARAVEL) gives me the expertise to build robust web applications that are both reliable and efficient.
 
-In addition to my technical skills, I am experienced in AWS server management, including Amazon Route 53 and Amazon EC2 Instance. This allows me to manage web applications efficiently and ensure that they are running seamlessly.
+In addition to my technical skills, I am experienced in AWS server management, including Amazon Route 53 and Amazon EC2 Instance. This allows me to manage web applications efficiently and ensure that they are running seamlessly. I can deploy websites to AWS, connect them with Route 53, configure sites via command line, and set up SSL certificates for secure connections. I also have experience setting up databases in AWS and connecting them to web servers, and I'm capable of working with domain configurations through providers like GoDaddy.
 
 Moreover, I am well-versed in Git and server Git-flow, which enables me to collaborate with teams and ensure streamlined workflow.
 
