@@ -1,8 +1,8 @@
 Hello there! I am excited to introduce myself as someone with a deep passion for building interactive experiences and solving problems before they arise.
 
-My advanced knowledge of Object-Oriented JavaScript, modern JS libraries like VUE and NUXT, ES6, and Responsive design tactics allows me to craft engaging web experiences that captivate users.
+My advanced knowledge of Object-Oriented JavaScript, modern JS libraries like **VUE, VITE, NUXT, Javascript, and Responsive design** tactics allows me to craft engaging web experiences that captivate users.
 
-Furthermore, my experience with LAMP (Linux, Apache, MySQL, PHP/LARAVEL) gives me the expertise to build robust web applications that are both reliable and efficient.
+Furthermore, my experience with **LAMP (Linux, Apache, MySQL, PHP/LARAVEL)** gives me the expertise to build robust web applications that are both reliable and efficient.
 
 In addition to my technical skills, I am experienced in AWS server management, including Amazon Route 53 and Amazon EC2 Instance. This allows me to manage web applications efficiently and ensure that they are running seamlessly. I can deploy websites to AWS, connect them with Route 53, configure sites via command line, and set up SSL certificates for secure connections. I also have experience setting up databases in AWS and connecting them to web servers, and I'm capable of working with domain configurations through providers like GoDaddy.
 
@@ -20,7 +20,7 @@ I am confident that my expertise in Agile and Scrum Master, combined with my tec
 ### 💻 My Tools & Stack
 
 - **IDE:** VS Code ![VS Code](https://img.shields.io/badge/-VSCode-%23007ACC?style=flat-square&logo=visual-studio-code)
-- **Front-end:** Vue.js, Nuxt.js, ES6
+- **Front-end:** Vue.js, Nuxt.js, ECMAScript
 - **Back-end:** Laravel, PHP
 - **APIs:** REST, GraphQL
 - **Databases:** MySQL
@@ -37,7 +37,7 @@ I am confident that my expertise in Agile and Scrum Master, combined with my tec
 
 - 💰 Experienced with international and local payment gateways.
 - 💳 PayPal, Stripe, SSL Commerz, and more.
-- 🌐 Shopify and Xero integration.
+- 🛍 Experienced in integrating with Shopify, Xero, and various e-commerce APIs for seamless connectivity.
 - 💻 Expertise with other external APIs.
 
 ### 🎨 Design Patterns
