@@ -27,7 +27,7 @@ I am confident that my expertise in Agile and Scrum Master, combined with my tec
 - **Cloud Services:** AWS
 
 ### ⚙️ Server Mastery
-🌐 AWS wizard: I deploy, connect with Route 53, configure, and secure with SSL. Database setups? No problem. GoDaddy domains? Handled. Site configuration? Done seamlessly
+🌐 AWS wizard: I deploy, connect with Route 53, configure, and secure with SSL. Database setups? No problem. GoDaddy domains? Handled. Site configuration? Done seamlessly.
 
 ### 🎨 Design Patterns
 
