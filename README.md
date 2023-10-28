@@ -26,8 +26,19 @@ I am confident that my expertise in Agile and Scrum Master, combined with my tec
 - **Databases:** MySQL
 - **Cloud Services:** AWS
 
-### ⚙️ Server Mastery
-🌐 AWS wizard: I deploy, connect with Route 53, configure, and secure with SSL. Database setups? No problem. GoDaddy domains? Handled. Site configuration? Done seamlessly.
+### ⚙ Server Mastery
+
+- 🌐 AWS wizard: I deploy, connect with Route 53, configure, and secure with SSL.
+- 💻 Database setups? No problem.
+- 🌐 GoDaddy domains? Handled with finesse.
+- 🔧 Site configuration? Seamless execution, all through command line expertise.
+
+### 💳 Payment Gateways & APIs
+
+- 💰 Experienced with international and local payment gateways.
+- 💳 PayPal, Stripe, SSL Commerz, and more.
+- 🌐 Shopify and Xero integration.
+- 💻 Expertise with other external APIs.
 
 ### 🎨 Design Patterns
 
