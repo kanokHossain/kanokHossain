@@ -8,7 +8,7 @@ In addition to my technical skills, I am experienced in AWS server management, i
 
 Moreover, I am well-versed in Git and server Git-flow, which enables me to collaborate with teams and ensure streamlined workflow.
 
-In addition to my technical skills and passion for building exceptional experiences, I am also well-versed in agile methodologies and an expert in Scrum Master.
+In addition to my technical skills and passion for building exceptional experiences, I am also well-versed in **agile methodologies** and an expert in **Scrum Master**.
 
 My experience with agile methodologies has given me a solid foundation in project management, enabling me to collaborate effectively with teams and stakeholders to achieve project goals. As an expert in Scrum Master, I am skilled in facilitating Agile ceremonies, including daily standups, sprint planning, sprint reviews, and retrospectives.
 
