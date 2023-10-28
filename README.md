@@ -26,6 +26,14 @@ I am confident that my expertise in Agile and Scrum Master, combined with my tec
 - **Databases:** MySQL
 - **Cloud Services:** AWS
 
+## 📦 JavaScript Packages
+
+I have experience in creating JavaScript packages using vue-sfc-rollup.
+
+## 🧰 Monorepo Management
+
+Proficient in managing monorepos using Lerna.
+
 ### ⚙ Server Mastery
 
 - 🌐 AWS wizard: I deploy, connect with Route 53, configure, and secure with SSL.
