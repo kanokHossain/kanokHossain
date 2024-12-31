@@ -20,8 +20,8 @@ I am confident that my expertise in Agile and Scrum Master, combined with my tec
 ### 💻 My Tools & Stack
 
 - **IDE:** VS Code ![VS Code](https://img.shields.io/badge/-VSCode-%23007ACC?style=flat-square&logo=visual-studio-code)
-- **Front-end:** Vue.js, Nuxt.js, ECMAScript, Vite.js
-- **Back-end:** Laravel, PHP
+- **Front-end:** Vue.js, Nuxt.js, ECMAScript, Vite.js, React.js, Next.Js
+- **Back-end:** Laravel, PHP, Python, Django
 - **APIs:** REST, GraphQL
 - **Databases:** MySQL
 - **Cloud Services:** AWS
