@@ -47,7 +47,7 @@ Proficient in managing monorepos using Lerna.
 
 ### 🚀 Agile Advocate
 
-I'm an Agile enthusiast and an expert Scrum Master. I prioritize communication, transparency, and collaboration in every project.
+I'm an Agile enthusiast and an certified Scrum Master. I prioritize communication, transparency, and collaboration in every project.
 
 ### 🛠️ Tools I Use
 
