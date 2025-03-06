@@ -12,28 +12,6 @@ I’m always eager to learn and adapt, especially in fast-paced environments whe
 - **Databases:** MySQL
 - **Cloud Services:** AWS
 
-## 📦 JavaScript Packages
-
-I have experience in creating JavaScript packages using vue-sfc-rollup.
-
-## 🧰 Monorepo Management
-
-Proficient in managing monorepos using Lerna.
-
-### ⚙ Server Mastery
-
-- 🌐 AWS wizard: I deploy, connect with Route 53, configure, and secure with SSL.
-- 💻 Database setups? No problem.
-- 🌐 GoDaddy domains? Handled with finesse.
-- 🔧 Site configuration? Seamless execution, all through command line expertise.
-
-### 💳 Payment Gateways & APIs
-
-- 💰 Experienced with international and local payment gateways.
-- 💳 PayPal, Stripe, SSL Commerz, and more.
-- 🛍 Experienced in integrating with Shopify, Xero, and various e-commerce APIs for seamless connectivity.
-- 💻 Expertise with other external APIs.
-
 ### 🎨 Design Patterns
 
 🔨 I build robust and maintainable software, following design principles:
