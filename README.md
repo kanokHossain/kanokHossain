@@ -31,9 +31,5 @@ I'm an Agile enthusiast and an certified Scrum Master. I prioritize communicatio
 - **Version Control:** GIT
 - **Collaboration:** Retro for retrospectives
 
-### 📊 Real-time & More
-
-🌐 For real-time capabilities, I rely on **Firebase**. Let's connect and create amazing software together! 📩
-
 📫 How to reach me ... ![Gmail](https://img.shields.io/badge/-kanokhossain.se@gmail.com-EA4335?style=flat-square&logoColor=black&logo=mail.ru&link=kanokhossain.se@gmail.com)
 
