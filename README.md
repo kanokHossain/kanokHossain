@@ -31,5 +31,5 @@ I'm an Agile enthusiast and an certified Scrum Master. I prioritize communicatio
 - **Version Control:** GIT
 - **Collaboration:** Retro for retrospectives
 
-📫 How to reach me ... ![Gmail](https://img.shields.io/badge/-kanokhossain.se@gmail.com-EA4335?style=flat-square&logoColor=black&logo=mail.ru&link=kanokhossain.se@gmail.com)
+📫 How to reach me ... ![Gmail](https://img.shields.io/badge/-kanokhossain.se@gmail.com-EA4335?style=flat-square&logoColor=black&logo=mail.ru&link=kanokhossain.tech@gmail.com)
 
