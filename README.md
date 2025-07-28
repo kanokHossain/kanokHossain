@@ -5,9 +5,9 @@ I’m always eager to learn and adapt, especially in fast-paced environments whe
 
 ### 💻 My Tools & Stack
 
-- **IDE:** VS Code ![VS Code](https://img.shields.io/badge/-VSCode-%23007ACC?style=flat-square&logo=visual-studio-code)
+- **IDE:** VS Code ![VS Code](https://img.shields.io/badge/-VSCode-%23007ACC?style=flat-square&logo=visual-studio-code). Cursor
 - **Front-end:** Vue.js, Nuxt.js, ECMAScript, Vite.js, React.js, Next.Js
-- **Back-end:** Laravel, PHP, Python ✍️, Django ✍️
+- **Back-end:** Laravel, PHP, Python, Django, Fast API
 - **Cloud Services:** AWS
 
 ### 🎨 Design Patterns
@@ -29,7 +29,6 @@ I'm an Agile enthusiast and an certified Scrum Master. I prioritize communicatio
 
 - **Project Management:** JIRA, Trello
 - **Version Control:** GIT
-- **Collaboration:** Retro for retrospectives
 
 📫 How to reach me ... ![Gmail](https://img.shields.io/badge/-kanokhossain.se@gmail.com-EA4335?style=flat-square&logoColor=black&logo=mail.ru&link=kanokhossain.tech@gmail.com)
 
