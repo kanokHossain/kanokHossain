@@ -12,7 +12,7 @@
 
 ---
 
-**Staff Software Engineer** with ***+ years** building full-stack, AI-driven, and test-driven software. I design scalable architectures, lead engineering teams on international projects, and bring AI into every stage of development.
+**Staff Software Engineer** with ***+ 8 years** building full-stack, AI-driven, and test-driven software. I design scalable architectures, lead engineering teams on international projects, and bring AI into every stage of development.
 
 - 🏅 Professional Scrum Master I · ACMP (IBA, University of Dhaka)
 
