@@ -1,13 +1,13 @@
 <h1 align="center">Hi, I'm Kanok Hossain 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=650&lines=Staff+Software+Engineer+%40+Brain+Station+23;Full-Stack+%7C+AI-Driven+%7C+Test-Driven;Certified+Scrum+Master" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=650&lines=Staff+Software+Engineer;Full-Stack+%7C+AI-Driven+%7C+Test-Driven;Certified+Scrum+Master" alt="Typing SVG" />
 </p>
 
 <p align="center">
   <a href="https://linkedin.com/in/kanokhossain"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:kanokhossain.tech@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
-  <img src="https://komarev.com/ghpvc/?username=GITHUB_USERNAME&style=flat-square&color=blue" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=kanokHossain&style=flat-square&color=blue" alt="Profile views" />
 </p>
 
 ---
