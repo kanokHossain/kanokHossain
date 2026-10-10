@@ -12,7 +12,7 @@
 
 ---
 
-**Staff Software Engineer** with **8+ years** building full-stack, AI-driven, and test-driven software. I design scalable architectures, lead engineering teams on international projects, and bring AI into every stage of development.
+**Staff Software Engineer** with **8+ years** building full-stack, AI-driven, and test-driven software. I design scalable architectures, lead engineering teams on international projects, and bring AI into every stage of development through **AI-Driven Development Life Cycle (AIDLC)** practices.
 
 - 🎓 BSc in CSE (DIU) · Professional Scrum Master I · ACMP (IBA, University of Dhaka)
 - 🤖 Currently exploring LLM apps, RAG, and agentic AI
@@ -42,4 +42,4 @@
 
 ### 🎨 How I Build
 
-**SOLID** · **DRY** · **Atomic Design** · **Clean Architecture** · **TDD** · **Agile / Scrum**
+**SOLID** · **DRY** · **Atomic Design** · **Clean Architecture** · **TDD** · **AIDLC** · **Agile / Scrum**
